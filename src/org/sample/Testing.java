@@ -10,6 +10,13 @@ public class Testing {
 	private void m2() {
 
 		System.out.println("Arun....");
+
+	}
+
+	private void m3() {
+
+		System.out.println("Raj...");
+
 	}
 
 	public static void main(String[] args) {
